@@ -1,0 +1,23 @@
+{
+  "groq_api_key": "gsk_ВАШ_КЛЮЧ_СЮДА",
+  "resume_pdf": "resume.pdf",
+  "me": {
+    "full_name":            "Имя Фамилия",
+    "first_name":           "Имя",
+    "last_name":            "Фамилия",
+    "email":                "your@email.com",
+    "phone":                "+1-555-0000",
+    "location":             "City, Country",
+    "linkedin":             "linkedin.com/in/yourprofile",
+    "github":               "github.com/yourusername",
+    "years_experience":     "7",
+    "current_title":        "Senior Developer",
+    "salary_expectation":   "Negotiable",
+    "notice_period":        "1 week",
+    "willing_to_relocate":  "Yes",
+    "work_authorization":   "Yes",
+    "requires_sponsorship": "Yes",
+    "skills": "список ваших навыков через запятую",
+    "summary": "Краткое описание себя 2-3 предложения"
+  }
+}
